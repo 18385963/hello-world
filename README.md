@@ -2,12 +2,12 @@
 I am: 
 - A fresh newbie with close to minimal exposure to Python, Visual Basic for Applications, C++ and (yes) MatLab
 - Selftaught (mainly, with the exception of MatLab)
-- A College dog
+- A college dog
 
 I am interested in
 - The penguin OS
 - Console emulators
-- cool stuff in general
+- Cool stuff in general
 
 I enjoy:
 - Asian cartoons
